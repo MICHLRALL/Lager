@@ -1,0 +1,8 @@
+Lager PWA – Version mit Änderungsliste (400 Tage) und Vormerken neuer Artikel.
+Nur Programmdateien auf öffentliches GitHub hochladen, keine private CSV.
+Bestehende IndexedDB-Artikeldaten werden beim Update nicht gelöscht.
+Kamera: Android-Fotoaufnahme statt fehleranfälliger Live-Zoom-Steuerung.
+Neue Artikel erscheinen nur in der Änderungsliste, nicht in der Haupt-CSV.
+WICHTIG: Browserdaten nicht löschen. Zur Datensicherung aktuelle CSV regelmäßig exportieren.
+
+Version V1.2. App: Lager. Fuer getrennte Installation eigenes GitHub-Pages-Repository Lager verwenden.
